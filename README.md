@@ -19,7 +19,7 @@ Proxy list sorted by under 30s of runtime
 └── valid_ip.py
 ```
 ## proxy-list
-	https://github.com/clarketm/proxy-list
+https://github.com/clarketm/proxy-list
   
 ## Setup
 ```

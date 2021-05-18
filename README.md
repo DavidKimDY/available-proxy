@@ -31,10 +31,12 @@ git clone https://github.com/DavidKimDY/available-proxy.git
 cd proxy_crawling/proxy-list
 git pull
 cd ..
-python ip_list.py
-python valid_ip.py
+python available_proxy.py 
 ```
 
 ## files
 ***success_http[s].txt*** : Ip with Success mark in proxy-list/proxy-list-status.txt <br>
-***valid_http[s].txt*** : Ip passed test using `requests.get(url, runtime=30)`
+***valid_http[s].txt*** : Ip passed test using `requests.get(url, runtime=30)
+
+## Todo
+**Asynchronize**

@@ -40,3 +40,5 @@ python available_proxy.py
 
 ## Todo
 **Asynchronize**
+**Avoid using pickle**
+

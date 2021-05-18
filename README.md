@@ -31,6 +31,7 @@ git clone https://github.com/DavidKimDY/available-proxy.git
 cd proxy_crawling/proxy-list
 git pull
 cd ..
+python ip_list.py
 python valid_ip.py
 ```
 
